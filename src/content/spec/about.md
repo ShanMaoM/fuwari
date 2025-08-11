@@ -1,9 +1,23 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+### About
 
-::github{repo="saicaca/fuwari"}
+男，网络上自称ShanMao (来自于游戏合金装备5:幻痛的一个人物) 来自于一个不起眼的三十八线小县城
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+是2026届高考生，物化生组合，喜欢英语，数学，物理，目前就读于小县城的重高中
+
+### 爱好
+
+喜欢拍画画草草，极其不擅长人像摄影
+
+音乐主打中英，比较喜欢老歌和民谣，尤其是伍佰
+
+书籍比较爱看轻小说，近代史，政治经济类和心理学虽然没看过几本就是的了
+
+也比较爱好打游戏，比较喜欢打一点单机游戏（射击游戏居多），有事没事打点腾讯“3A大作”打发一下时间（不过现在时不时电子阳痿比较严重，可能是上高中比较忙碌把）
+
+喜欢折腾一些看起来不是很有用的东西 ~~比如这个博客~~
+
+### 关于此博客
+
+不知道这是第几个博客，总是在删库跑路，又重新部署的路上，但愿这次不会了（
+
+本站内容主要是自己随随便便写的一些 应该不大会有人看就是了，但是不影响
